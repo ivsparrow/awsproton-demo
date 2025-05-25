@@ -22,7 +22,7 @@ def hello():
             </style>
         </head>
         <body>
-            <h1>Hello from AWS App Runner!</h1>
+            <h1>Hello from AWS Proton!</h1>
         </body>
     </html>
     '''
